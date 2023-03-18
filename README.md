@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=watchm1" alt="watchm1" /></a> </p>
 
-- 🌱 I’m currently learning **LARAVEL, DJANGO**
+- 🌱 I’m currently learning PYTTHON, PHP **LARAVEL, DJANGO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammedalibekdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedalibekdas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammed-ali-bekda%C5%9F-39bb40259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedalibekdas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
