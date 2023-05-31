@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Ali</h1>
-<h3 align="center">A passionate Backend Development / Game Development in Turkey</h3>
+<h3 align="center">I specialize in Game Development and Backend Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=watchm1&label=Profile%20views&color=0e75b6&style=flat" alt="watchm1" /> </p>
 
