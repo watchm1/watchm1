@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Personal Projects for my portfolio**
 
-- 🌱 I’m currently learning backend techs. **Unity, Unreal Engine 5 ASP.NET, NodeJs**
+- 🌱 I’m currently learning backend techs. **ASP.NET, NodeJs**
 
 - 💬 Ask me about **Unity, NodeJs, C#, Python, C++, C**
 
