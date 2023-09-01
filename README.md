@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=watchm1" alt="watchm1" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Projects for my portfolio**
+- 🔭 I’m currently working on **Freelance projects**
 
-- 🌱 I’m currently learning backend techs. **ASP.NET, NodeJs**
+- 🌱 I’m currently develop projects with backend techs. **ASP.NET, NodeJs**
 
 - 💬 Ask me about **Unity, NodeJs, C#, Python, C++, C**
 
