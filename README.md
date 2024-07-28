@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Freelance projects**
 
-- 🌱 I’m currently develop projects with backend techs. **ASP.NET, NodeJs**
+- 🌱 I’m currently develop projects with backend techs. **JAVA, NodeJs**
 
 - 💬 Ask me about **Unity, NodeJs, C#, Python, C++, C**
 
