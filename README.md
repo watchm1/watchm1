@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently develop projects with backend techs. **JAVA, NodeJs**
 
-- 💬 Ask me about **Unity, NodeJs, C#, Python, C++, C**
+- 💬 Ask me about **Java, NodeJs, Python, Shell Scripting, C++, C**, **React
 
 - 📫 How to reach me **m.ali.software.dev@gmail.com**
 
